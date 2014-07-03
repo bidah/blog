@@ -109,11 +109,11 @@
 /*logo end*/
 @font-face {
   font-family: 'NovecentowideLightBold';
-  src: url('../assets/fonts/Novecentowide-DemiBold-webfont.eot');
-  src: url('../assets/fonts/Novecentowide-DemiBold-webfont.eot?#iefix') format('embedded-opentype'),
-       url('../assets/fonts/Novecentowide-DemiBold-webfont.woff') format('woff'),
-       url('../assets/fonts/Novecentowide-DemiBold-webfont.ttf') format('truetype'),
-       url('../assets/fonts/Novecentowide-DemiBold-webfont.svg#NovecentowideLightBold') format('svg');
+  src: url('../assets/fonts/Novecentowide-DemiBold-webfont-b1028a7c.eot');
+  src: url('../assets/fonts/Novecentowide-DemiBold-webfont-b1028a7c.eot?#iefix') format('embedded-opentype'),
+       url('../assets/fonts/Novecentowide-DemiBold-webfont-f7b50257.woff') format('woff'),
+       url('../assets/fonts/Novecentowide-DemiBold-webfont-ea934f3e.ttf') format('truetype'),
+       url('../assets/fonts/Novecentowide-DemiBold-webfont-e7005aa8.svg#NovecentowideLightBold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -166,19 +166,19 @@ h1#non_responsive_headline, h1#responsive_headline {
 }
 
 .fondoColoradoHero {
-      background: rgba(0, 0, 0, 0) url(../images/front_colorado_hero-compressor.png) no-repeat scroll 50% 50% / cover padding-box border-box;
+      background: rgba(0, 0, 0, 0) url(../images/front_colorado_hero-compressor-53589742.png) no-repeat scroll 50% 50% / cover padding-box border-box;
 }
 
 .fondoMapa {
-      background: rgba(0, 0, 0, 0) url(../images/mapa_front.png) no-repeat scroll 50% 50% / cover padding-box border-box;
+      background: rgba(0, 0, 0, 0) url(../images/mapa_front-4c85221d.png) no-repeat scroll 50% 50% / cover padding-box border-box;
 }
 
 .fondoDiesel {
-      background: rgba(0, 0, 0, 0) url(../images/front_diesel.png) no-repeat scroll 50% 50% / cover padding-box border-box;
+      background: rgba(0, 0, 0, 0) url(../images/front_diesel-bb4bf316.png) no-repeat scroll 50% 50% / cover padding-box border-box;
 }
 
 .fondoMapbox {
-      background: rgba(0, 0, 0, 0) url(../images/mapbox_cover.png) no-repeat scroll 50% 50% / cover padding-box border-box;
+      background: rgba(0, 0, 0, 0) url(../images/mapbox_cover-70d8f67c.png) no-repeat scroll 50% 50% / cover padding-box border-box;
       border-bottom: 1px solid black;
 }
 
