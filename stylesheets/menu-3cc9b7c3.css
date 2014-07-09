@@ -1,5 +1,6 @@
 /* Overlay style */
 
+
 .overlay {
   position: fixed;
   width: 100%;
@@ -77,7 +78,7 @@
 
 .overlay ul li a:hover,
 .overlay ul li a:focus {
-  color: #e3fcb1;
+  color: black;
 }
 
 /* Effects */
